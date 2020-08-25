@@ -1,0 +1,7 @@
+spacy==2.2.4
+pandas==1.0.5
+requests==2.24.0
+matplotlib==3.2.2
+numpy==1.17.0
+beautifulsoup4==4.9.1
+networkx==2.5
