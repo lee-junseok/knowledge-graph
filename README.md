@@ -34,5 +34,5 @@ python knowledge_graph.py (optional argument)
 
 
 
-- Graph Example for [London Wikipedia](https://en.wikipedia.org/wiki/London) page where edges are one of `["is","was","are","were","been"]`:
+- A graph example for [London Wikipedia](https://en.wikipedia.org/wiki/London) page where edges are one of `["is","was","are","were","been"]`:
 ![Graph_Example](static/London.png)
