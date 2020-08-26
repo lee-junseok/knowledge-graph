@@ -4,6 +4,8 @@
 
 Scrap and parse text data from a webpage and make triple Knowledge Graph data.
 
+Triples are generated based on pre-trained SpaCy's dependency tagging.
+
 Triples are saved as a cvs file in `data/` and a graph is generated.
 
 * To run:
